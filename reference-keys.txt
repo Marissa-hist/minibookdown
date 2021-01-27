@@ -2,4 +2,3 @@ create-your-open-textbook
 chapter-one
 introduction
 study
-results
